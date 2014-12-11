@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="musicfail">
+		<CBX_INST_ENTRY INSTANCE_NAME="|musicfail|lpm_divide:Div1" CBX_FILE_NAME="lpm_divide_2dm.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|musicfail|lpm_divide:Div3" CBX_FILE_NAME="lpm_divide_2dm.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|musicfail|twovoicemem:musical|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_sio2.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|musicfail|lpm_divide:Div0" CBX_FILE_NAME="lpm_divide_tcm.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|musicfail|lpm_divide:Div2" CBX_FILE_NAME="lpm_divide_tcm.tdf"/>
+	</PROJECT>
+</LOG_ROOT>
